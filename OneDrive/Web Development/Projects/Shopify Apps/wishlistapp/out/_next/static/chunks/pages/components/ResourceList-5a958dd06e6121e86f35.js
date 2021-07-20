@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[11],{"6P+X":function(n,_,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/components/ResourceList",function(){return o("samQ")}])}},[["6P+X",0,1,2,3,4]]]);
